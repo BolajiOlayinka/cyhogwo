@@ -420,7 +420,11 @@ section
 .logo a img
 {
 	display: inline-block;
-	vertical-align: text-bottom;
+	vertical-align: text-bottom; 
+	width:100px;
+}
+.footer_img{
+	width:50px!important;
 }
 
 /*********************************
