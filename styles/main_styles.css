@@ -397,10 +397,12 @@ section
 {
 	width: 100%;
 	background: #FFFFFF;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 .header_content
 {
-	height: 115px;
+	/* height: 115px; */
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
